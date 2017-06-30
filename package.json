@@ -1,0 +1,11 @@
+{
+  "name": "impack-example-mod-a",
+  "version": "1.0.0",
+  "description": "The impack example module A",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
